@@ -1,0 +1,14 @@
+Do not alter the parameter names inside 
+Units are arbitrayr Kb = 1, Hbar = 1
+
+Coupling Strength = .05
+
+Frequency = 1.0
+
+Temperature = 300.0
+
+dt = .1
+
+Number of States = 5
+
+Number of Steps = 1000000
